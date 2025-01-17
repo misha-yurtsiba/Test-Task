@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbcab77138e269f49b21be0c2c0ce9c4, type: 3}
+  m_Name: OfficeConfig
+  m_EditorClassIdentifier: 
+  _buildingPrefab: {fileID: 3010720375799441767, guid: 471a5bb3ece8a8e4281d314295887167, type: 3}
+  _cost: 750000
+  _resourcePerSecond: 25000
+  _buildingName: Office
